@@ -29,7 +29,7 @@ Instale as dependências necessárias (caso ainda não tenha):
 pip install streamlit pandas plotly
 No terminal, navegue até o diretório do projeto e execute:
 streamlit run app.py
-O aplicativo abrirá automaticamente no navegador (geralmente em http://localhost:8501).
+O aplicativo abrirá automaticamente no navegador.
 📈 Exemplo de Uso
 Ao abrir o aplicativo:
 Marque a opção “Criar um histograma” para visualizar a distribuição da quilometragem dos veículos.
